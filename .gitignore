@@ -9,7 +9,7 @@
 
 # testing
 /client/coverage
-
+/client/src
 # production
 # misc
 /client/.DS_Store
